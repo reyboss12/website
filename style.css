@@ -7,7 +7,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #1d1f20;
+    background-color: #000000;
 }
 h1{
     font-family: "Incosolata", Consolas, monospace;
